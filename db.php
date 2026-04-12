@@ -3,7 +3,7 @@ $conn=mysqli_connect("localhost","root","","auth");
 
 
 //DB: auth
-//tables:reg,users
+//tables:reg(id,uname,pw),users(id,uname,pw,time,status)
 
 
 //for products:
